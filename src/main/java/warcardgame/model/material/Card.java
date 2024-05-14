@@ -1,4 +1,4 @@
-package warcardgame.model;
+package warcardgame.model.material;
 
 import java.util.Objects;
 
